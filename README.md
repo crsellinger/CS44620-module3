@@ -38,6 +38,3 @@ After activating virtual environment, use following command template to run in t
 py ./[script name]
 ```
 To run in Jupyter notebook, click Kernel (top right) > Python environments > virtual environment. You can then run each cell (or all) in Jupyter notebook.
-Icon in top right should look like the screenshot below:
-
-![.venv (Python 3.13.0)](image-1.png)
