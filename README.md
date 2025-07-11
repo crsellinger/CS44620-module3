@@ -32,7 +32,7 @@ py -m pip install -r requirements.txt
 ```
 **Running**
 
-After activating virtual environment, use following command template to run in terminal. Outputs will be reflected in the database file (project.sqlite3).
+After activating virtual environment, use following command template to run in terminal.
 
 ```shell
 py ./[script name]
